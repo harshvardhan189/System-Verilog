@@ -1,6 +1,6 @@
 module duplicate_value;
 
-  int a[$] = {7,2,2,6,9,,4.2,8,9,5,1,5,7,8,1};
+  int a[$] = {7,2,2,6,9,0,4,2,8,9,5,1,5,7,8,1};
 
   initial 
     begin
